@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agrickaton</string>
+    <string name="choisirlalangue">Choisir la langue</string>
+    <string name="listealpage">Liste alpages</string>
+    <string name="alpagede">Alpage de ...</string>
+    <string name="adresse">Adresse</string>
+    <string name="telephone">Téléphone</string>
+    <string name="horairesdevente">Horaires de vente</string>
+    <string name="buv">Buvette/dégustation</string>
+    <string name="pointdevente">Point de vente</string>
+    <string name="autresproduits">Autres produits</string>
+    <string name="beurre">Beurre</string>
+    <string name="creme">Crème</string>
+    <string name="serac">Serac</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="notrefromage">Notre fromage</string>
+    <string name="nomfromage">Nom du fromage</string>
+    <string name="main">Main</string>
+    <string name="cuisson">Cuisson</string>
+    <string name="raclette">Raclette</string>
+</resources>

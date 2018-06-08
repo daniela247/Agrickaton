@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agrickaton</string>
+    <string name="choisirlalangue">Scegli la lingua</string>
+    <string name="listealpage">Elenco alpino</string>
+    <string name="alpagede">Pascolo alpino</string>
+    <string name="adresse">Indirizzo</string>
+    <string name="telephone">Telefono</string>
+    <string name="horairesdevente">Ore di vendita</string>
+    <string name="buv">Bar / degustazione</string>
+    <string name="pointdevente">Punto di vendita</string>
+    <string name="autresproduits">Altri prodotti</string>
+    <string name="beurre">Burro</string>
+    <string name="creme">Crema</string>
+    <string name="serac">Serac</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="notrefromage">Il nostro formaggio</string>
+    <string name="nomfromage">Nome del formaggio</string>
+    <string name="main">Mano</string>
+    <string name="cuisson">Cottura al forno</string>
+    <string name="raclette">Seccatoio</string>
+</resources>
